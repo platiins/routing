@@ -4,7 +4,6 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 
 import "bootstrap/dist/css/bootstrap.css";
-import "../styles.css";
 
 function Header() {
   return (
